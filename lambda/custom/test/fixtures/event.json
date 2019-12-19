@@ -1,0 +1,241 @@
+{
+  "interactionModel": {
+      "languageModel": {
+          "invocationName": "conferencias tecnológicas",
+          "intents": [
+              {
+                  "name": "AMAZON.CancelIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.HelpIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.StopIntent",
+                  "samples": []
+              },
+              {
+                  "name": "AMAZON.NavigateHomeIntent",
+                  "samples": []
+              },
+              {
+                  "name": "GetConferencesIntent",
+                  "slots": [
+                      {
+                          "name": "timeframe",
+                          "type": "TIME_FRAME",
+                          "samples": [
+                              "el {timeframe}",
+                              "para {timeframe}"
+                          ]
+                      }
+                  ],
+                  "samples": [
+                      "eventos de {timeframe}",
+                      "conferencias de {timeframe}",
+                      "dime las conferencias de {timeframe}",
+                      "qué conferencias hay {timeframe}",
+                      "qué eventos hay {timeframe}"
+                  ]
+              }
+          ],
+          "types": [
+              {
+                  "name": "TIME_FRAME",
+                  "values": [
+                      {
+                          "id": "sunday",
+                          "name": {
+                              "value": "domingo"
+                          }
+                      },
+                      {
+                          "id": "saturday",
+                          "name": {
+                              "value": "sábado"
+                          }
+                      },
+                      {
+                          "id": "friday",
+                          "name": {
+                              "value": "viernes"
+                          }
+                      },
+                      {
+                          "id": "thursday",
+                          "name": {
+                              "value": "jueves"
+                          }
+                      },
+                      {
+                          "id": "wednesday",
+                          "name": {
+                              "value": "miércoles"
+                          }
+                      },
+                      {
+                          "id": "tuesday",
+                          "name": {
+                              "value": "martes"
+                          }
+                      },
+                      {
+                          "id": "monday",
+                          "name": {
+                              "value": "lunes"
+                          }
+                      },
+                      {
+                          "id": "december",
+                          "name": {
+                              "value": "diciembre"
+                          }
+                      },
+                      {
+                          "id": "november",
+                          "name": {
+                              "value": "noviembre"
+                          }
+                      },
+                      {
+                          "id": "october",
+                          "name": {
+                              "value": "octubre"
+                          }
+                      },
+                      {
+                          "id": "september",
+                          "name": {
+                              "value": "septiembre"
+                          }
+                      },
+                      {
+                          "id": "august",
+                          "name": {
+                              "value": "agosto"
+                          }
+                      },
+                      {
+                          "id": "july",
+                          "name": {
+                              "value": "julio"
+                          }
+                      },
+                      {
+                          "id": "june",
+                          "name": {
+                              "value": "junio"
+                          }
+                      },
+                      {
+                          "id": "may",
+                          "name": {
+                              "value": "mayo"
+                          }
+                      },
+                      {
+                          "id": "april",
+                          "name": {
+                              "value": "abril"
+                          }
+                      },
+                      {
+                          "id": "march",
+                          "name": {
+                              "value": "marzo"
+                          }
+                      },
+                      {
+                          "id": "february",
+                          "name": {
+                              "value": "febrero"
+                          }
+                      },
+                      {
+                          "id": "january",
+                          "name": {
+                              "value": "enero"
+                          }
+                      },
+                      {
+                          "id": "tomorrow",
+                          "name": {
+                              "value": "mañana"
+                          }
+                      },
+                      {
+                          "id": "today",
+                          "name": {
+                              "value": "hoy"
+                          }
+                      },
+                      {
+                          "id": "next_week",
+                          "name": {
+                              "value": "la próxima semana",
+                              "synonyms": [
+                                  "la semana que viene",
+                                  "próximamente"
+                              ]
+                          }
+                      },
+                      {
+                          "id": "this_week",
+                          "name": {
+                              "value": "esta semana"
+                          }
+                      },
+                      {
+                          "id": "next_month",
+                          "name": {
+                              "value": "el próximo mes",
+                              "synonyms": [
+                                  "el mes que viene"
+                              ]
+                          }
+                      },
+                      {
+                          "id": "this_month",
+                          "name": {
+                              "value": "este mes"
+                          }
+                      }
+                  ]
+              }
+          ]
+      },
+      "dialog": {
+          "intents": [
+              {
+                  "name": "GetConferencesIntent",
+                  "confirmationRequired": false,
+                  "prompts": {},
+                  "slots": [
+                      {
+                          "name": "timeframe",
+                          "type": "TIME_FRAME",
+                          "confirmationRequired": false,
+                          "elicitationRequired": true,
+                          "prompts": {
+                              "elicitation": "Elicit.Slot.1419754297912.1281469371017"
+                          }
+                      }
+                  ]
+              }
+          ],
+          "delegationStrategy": "ALWAYS"
+      },
+      "prompts": [
+          {
+              "id": "Elicit.Slot.1419754297912.1281469371017",
+              "variations": [
+                  {
+                      "type": "PlainText",
+                      "value": "Qué período quieres saber?"
+                  }
+              ]
+          }
+      ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "es-ES": {
+          "name": "Conferencias Tecnológicas",
+          "summary": "Agenda de conferencias tecnológicas en España",
+          "description": "Calendario de eventos y conferencias tecnológicas de España.\nPuedes preguntar qué conferencias hay para cualquier período de tiempo.\n\nSi quieres que tus eventos aparezcan añádelos tú mismo en https://github.com/npatarino/tech-conferences-spain/",
+          "examplePhrases": [
+            "Alexa abre conferencias tecnológicas y dime qué hay la próxima semana",
+            "Alexa abre conferencias tecnológicas y dime qué conferencias hay en mayo",
+            "Alexa abre conferencias tecnológicas y dime qué eventos hay este mes"
+          ],
+          "keywords": ["conferencias","eventos","meetups","agenda","guía","calendario"],
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/28aa/fc3bf70263de47d78db29279a18645c2/APP_ICON?versionId=KZUYAGichQSndT_y12crJX_kSj3ulbB0&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191116T214452Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20191116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a58703264ccd4f1f4533fdfd5765bd99b2ecd36ed09f020b53fed0fead2bdc4e",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/48f4/0ba12cd8ce0849ab9716b04adfbda95b/APP_ICON_LARGE?versionId=ZddIkk1qbepX08_4BYCJ2lWhc4oSXmDq&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191116T214459Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20191116%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=3e6fb08271e2bd0708bf902427889e678c10507a6e1c7c27da101e94f78f043e"
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "Lanza la skill y pregunta por conferencias tal como se indica en los ejemplos. Las respuestas deben coincidir con la agenda de https://npatarino.github.io/tech-conferences-spain/",
+      "category": "EVENT_FINDERS",
+      "distributionCountries": ["ES"],
+      "distributionMode": "PUBLIC"
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom",
+          "uri": "ask-custom-Conferencias_Tecnol_gicas-default"
+        }
+      }
+    },
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "usesPersonalInfo": false,
+      "isChildDirected": false,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "manifestVersion": "1.0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "conferencias_tecnologicas_skill",
+  "version": "1.0.0",
+  "description": "Conferencias tecnológicas Alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node_modules/mocha/bin/mocha test/core/**/**_spec.js",
+    "deploy": "ask deploy",
+    "lint:fix": "eslint --fix ./src"
+  },
+  "author": "Alfredo Artiles",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.3.0",
+    "ask-sdk-model": "^1.18.0",
+    "ask-sdk-s3-persistence-adapter": "^2.3.0",
+    "aws-sdk": "^2.326.0",
+    "i18next": "^10.5.0",
+    "i18next-sprintf-postprocessor": "^0.2.2",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "node-ical": "^0.10.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "faker": "^4.1.0",
+    "husky": "^3.1.0",
+    "lint-staged": "^9.5.0",
+    "mocha": "^6.2.1",
+    "prettier": "^1.19.1",
+    "should": "^13.2.3"
+  }
+}

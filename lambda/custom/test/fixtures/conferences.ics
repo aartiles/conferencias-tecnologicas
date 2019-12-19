@@ -1,0 +1,797 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://npatarino.github.io/tech-conferences-spain/
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/adalovers-2019.md
+URL:http://adaloversconf.es/
+DESCRIPTION:http://adaloversconf.es/
+LOCATION:Tenerife, Spain
+SUMMARY:AdaloversConf (Tenerife, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190928
+DTEND;VALUE=DATE:20190929
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/addc-2019.md
+URL:https://addconf.com/2019
+DESCRIPTION:https://addconf.com/2019
+LOCATION:Barcelona, Spain
+SUMMARY:ADDC (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190626
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/aos-2019.md
+URL:https://aos2019.agile-spain.org
+DESCRIPTION:https://aos2019.agile-spain.org
+LOCATION:Vizcaya, Spain
+SUMMARY:AOS (Vizcaya, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190627
+DTEND;VALUE=DATE:20190629
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/apidays-2019.md
+URL:https://www.apidays.co/barcelona
+DESCRIPTION:https://www.apidays.co/barcelona
+LOCATION:Barcelona, Spain
+SUMMARY:Api Days (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190912
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/atlantica-conf-2019.md
+URL:http://atlanticaconf.com/
+DESCRIPTION:http://atlanticaconf.com/
+LOCATION:A Coruña, Spain
+SUMMARY:Atlántica Conf (A Coruña, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/barcelona-perl-and-friends-2019
+URL:http://friends.barcelona.pm/2019/
+DESCRIPTION:http://friends.barcelona.pm/2019/
+LOCATION:Barcelona, Spain
+SUMMARY:Barcelona Perl & Friends (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191109
+DTEND;VALUE=DATE:20191110
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/big-things-2019.md
+URL:https://www.bigthingsconference.com/
+DESCRIPTION:https://www.bigthingsconference.com/
+LOCATION:Madrid, Spain
+SUMMARY:Big Things (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191120
+DTEND;VALUE=DATE:20191122
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/bilbostack-2019.md
+URL:https://bilbostack.com/2019/
+DESCRIPTION:https://bilbostack.com/2019/
+LOCATION:Bilbao, Vizcaya, Spain
+SUMMARY:BilboStack (Bilbao, Vizcaya, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190126
+DTEND;VALUE=DATE:20190127
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/bilbostack-2020.md
+URL:https://bilbostack.com
+DESCRIPTION:https://bilbostack.com
+LOCATION:Bilbao, Vizcaya, Spain
+SUMMARY:BilboStack (Bilbao, Vizcaya, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200125
+DTEND;VALUE=DATE:20200126
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/call-of-data-2019.md
+URL:http://callofdata.info/
+DESCRIPTION:http://callofdata.info/
+LOCATION:Madrid, Spain
+SUMMARY:Call of Data (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190602
+DTEND;VALUE=DATE:20190604
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/cas-2019.md
+URL:https://cas2019.agile-spain.org/
+DESCRIPTION:https://cas2019.agile-spain.org/
+LOCATION:Barcelona, Spain
+SUMMARY:CAS (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191124
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/codemotion-madrid-2019.md
+URL:https://madrid2018.codemotionworld.com/es/
+DESCRIPTION:https://madrid2018.codemotionworld.com/es/
+LOCATION:Madrid, Spain
+SUMMARY:Codemotion (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190924
+DTEND;VALUE=DATE:20190926
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/commit-conf-2019.md
+URL:https://2019.commit-conf.com/
+DESCRIPTION:https://2019.commit-conf.com/
+LOCATION:Madrid, Spain
+SUMMARY:Commit Conf (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191122
+DTEND;VALUE=DATE:20191124
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/csscamp-2019.md
+URL:https://csscamp.tech/
+DESCRIPTION:https://csscamp.tech/
+LOCATION:Barcelona, Spain
+SUMMARY:CSS Camp (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190717
+DTEND;VALUE=DATE:20190718
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/cybercamp-2019.md
+URL:https://cybercamp.es/
+DESCRIPTION:https://cybercamp.es/
+LOCATION:Valencia, Spain
+SUMMARY:CyberCamp (Valencia, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191127
+DTEND;VALUE=DATE:20191201
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-alicante-2019.md
+URL:http://devfestalicante.com/
+DESCRIPTION:http://devfestalicante.com/
+LOCATION:Alicante, Spain
+SUMMARY:DevFest (Alicante, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191117
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-asturias-2019.md
+URL:http://devfest.gdgasturias.com/
+DESCRIPTION:http://devfest.gdgasturias.com/
+LOCATION:Asturias, Spain
+SUMMARY:DevFest (Asturias, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191117
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-galicia-2019.md
+URL:https://devfest.gdggalicia.com/
+DESCRIPTION:https://devfest.gdggalicia.com/
+LOCATION:Ourense, Galicia, Spain
+SUMMARY:DevFest (Ourense, Galicia, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191026
+DTEND;VALUE=DATE:20191027
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-granada-2019.md
+URL:https://www.meetup.com/granadagdg/events/263394864/
+DESCRIPTION:https://www.meetup.com/granadagdg/events/263394864/
+LOCATION:Granada, Spain
+SUMMARY:DevFest (Granada, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191109
+DTEND;VALUE=DATE:20191110
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-lleida-2019.md
+URL:https://www.gdglleida.com/2019/06/devfest-lleida-2019.html
+DESCRIPTION:https://www.gdglleida.com/2019/06/devfest-lleida-2019.html
+LOCATION:Lleida, Spain
+SUMMARY:DevFest (Lleida, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191109
+DTEND;VALUE=DATE:20191110
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-malaga-2019.md
+URL:https://devfest.gdgmalaga.com/
+DESCRIPTION:https://devfest.gdgmalaga.com/
+LOCATION:Malaga, Spain
+SUMMARY:DevFest (Malaga, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191214
+DTEND;VALUE=DATE:20191215
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-sevillla-2019.md
+URL:https://devfest-sev.firebaseapp.com/
+DESCRIPTION:https://devfest-sev.firebaseapp.com/
+LOCATION:Sevilla, Spain
+SUMMARY:DevFest (Sevilla, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191011
+DTEND;VALUE=DATE:20191012
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/devfest-zaragoza-2019.md
+URL:http://gdgzaragoza.es/devfest/
+DESCRIPTION:http://gdgzaragoza.es/devfest/
+LOCATION:Zaragoza, Spain
+SUMMARY:DevFest (Zaragoza, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191123
+DTEND;VALUE=DATE:20191124
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/droidcon-2019.md
+URL:https://www.madrid.droidcon.com/
+DESCRIPTION:https://www.madrid.droidcon.com/
+LOCATION:Madrid, Spain
+SUMMARY:Droidcon (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191220
+DTEND;VALUE=DATE:20191222
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/drupalcamp-2019.md
+URL:https://2019.drupalcamp.es/es
+DESCRIPTION:https://2019.drupalcamp.es/es
+LOCATION:Conil, Cádiz, Spain
+SUMMARY:DrupalCamp (Conil, Cádiz, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190506
+DTEND;VALUE=DATE:20190513
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/edd-2019.md
+URL:https://2019.extremaduradigitalday.com
+DESCRIPTION:https://2019.extremaduradigitalday.com
+LOCATION:Cáceres, Spain
+SUMMARY:EDD (Cáceres, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/eslibre-2019.md
+URL:https://eslib.re/2019/
+DESCRIPTION:https://eslib.re/2019/
+LOCATION:Granada, Spain
+SUMMARY:esLibre (Granada, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190621
+DTEND;VALUE=DATE:20190622
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/exfest-2019.md
+URL:https://exfest.tech/
+DESCRIPTION:https://exfest.tech/
+LOCATION:Cáceres, Spain
+SUMMARY:ExFest (Cáceres, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190426
+DTEND;VALUE=DATE:20190428
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/expoqa-2019.md
+URL:http://www.expoqa.com
+DESCRIPTION:http://www.expoqa.com
+LOCATION:Madrid, Spain
+SUMMARY:expo:QA (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190617
+DTEND;VALUE=DATE:20190620
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/fabadaconf-2019.md
+URL:https://fabadaconf.com
+DESCRIPTION:https://fabadaconf.com
+LOCATION:Gijón, Asturias, Spain
+SUMMARY:Fabada Conf (Gijón, Asturias, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191109
+DTEND;VALUE=DATE:20191110
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/firebase-summit-2019.md
+URL:https://firebase.google.com/summit
+DESCRIPTION:https://firebase.google.com/summit
+LOCATION:Madrid, Spain
+SUMMARY:Firebase Summit (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190927
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/flutterconf-2019.md
+URL:http://flutterconf.gdgmarbella.com/
+DESCRIPTION:http://flutterconf.gdgmarbella.com/
+LOCATION:Marbella, Spain
+SUMMARY:FlutterConf (Marbella, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191018
+DTEND;VALUE=DATE:20191020
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/frontfest-2019.md
+URL:https://2019.frontfest.es/
+DESCRIPTION:https://2019.frontfest.es/
+LOCATION:Madrid, Spain
+SUMMARY:FrontFest (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190202
+DTEND;VALUE=DATE:20190203
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/full-stack-fest-2019.md
+URL:https://2019.fullstackfest.com/
+DESCRIPTION:https://2019.fullstackfest.com/
+LOCATION:Sitges, Barcelona, Spain
+SUMMARY:Full Stack Fest (Sitges, Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190903
+DTEND;VALUE=DATE:20190907
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/greach-conf-2019.md
+URL:https://greachconf.com/
+DESCRIPTION:https://greachconf.com/
+LOCATION:Madrid, Spain
+SUMMARY:Greach (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190328
+DTEND;VALUE=DATE:20190331
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/gsas-2019.md
+URL:https://gsas.io
+DESCRIPTION:https://gsas.io
+LOCATION:Barcelona, Spain
+SUMMARY:GSAS (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191010
+DTEND;VALUE=DATE:20191011
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/jbcn-conf-2019.md
+URL:http://www.jbcnconf.com/2019/
+DESCRIPTION:http://www.jbcnconf.com/2019/
+LOCATION:Barcelona, Spain
+SUMMARY:JBCNConf (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190527
+DTEND;VALUE=DATE:20190530
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/jonthebeach-2019.md
+URL:https://jonthebeach.com/
+DESCRIPTION:https://jonthebeach.com/
+LOCATION:Málaga, Spain
+SUMMARY:J on the Beach (Málaga, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190515
+DTEND;VALUE=DATE:20190518
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/js-camp-2019.md
+URL:https://jscamp.tech/
+DESCRIPTION:https://jscamp.tech/
+LOCATION:Barcelona, Spain
+SUMMARY:JS Camp (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190718
+DTEND;VALUE=DATE:20190720
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/jsday-canarias-2019.md
+URL:https://jsdaycanarias.com/
+DESCRIPTION:https://jsdaycanarias.com/
+LOCATION:Tenerife, Spain
+SUMMARY:JSDay Canarias (Tenerife, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191108
+DTEND;VALUE=DATE:20191111
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/jsdayes-2020.md
+URL:http://2019.jsday.es/
+DESCRIPTION:http://2019.jsday.es/
+LOCATION:Madrid, Spain
+SUMMARY:JSDayES (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200509
+DTEND;VALUE=DATE:20200510
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/lambdaworld-cadiz-2019.md
+URL:http://cadiz.lambda.world/
+DESCRIPTION:http://cadiz.lambda.world/
+LOCATION:Cádiz, Spain
+SUMMARY:Lambda World (Cádiz, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191017
+DTEND;VALUE=DATE:20191019
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/lechazo-conf-2019.md
+URL:https://lechazoconf.com/
+DESCRIPTION:https://lechazoconf.com/
+LOCATION:Valladolid, Spain
+SUMMARY:LechazoConf (Valladolid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190518
+DTEND;VALUE=DATE:20190519
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/lechazoconf-2020.md
+URL:https://lechazoconf.com/
+DESCRIPTION:https://lechazoconf.com/
+LOCATION:Valladolid, Spain
+SUMMARY:LechazoConf '20 (Valladolid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200530
+DTEND;VALUE=DATE:20200531
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/morcillaconf-2019.md
+URL:http://morcillaconf.es/
+DESCRIPTION:http://morcillaconf.es/
+LOCATION:Burgos, Spain
+SUMMARY:MorcillaConf (Burgos, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190907
+DTEND;VALUE=DATE:20190908
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/navaja-negra-conference-2019.md
+URL:https://www.navajanegra.com/2019/
+DESCRIPTION:https://www.navajanegra.com/2019/
+LOCATION:Albacete, Spain
+SUMMARY:Navaja Negra Conference (Albacete, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191003
+DTEND;VALUE=DATE:20191006
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/netcoreconf-2019.md
+URL:https://galicia.netcoreconf.com/
+DESCRIPTION:https://galicia.netcoreconf.com/
+LOCATION:Santiago de Compostela, Galicia, Spain
+SUMMARY:NetCoreConf (Santiago de Compostela, Galicia, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190928
+DTEND;VALUE=DATE:20190929
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/ngspain-2019.md
+URL:https://ngspain.com/
+DESCRIPTION:https://ngspain.com/
+LOCATION:Madrid, Spain
+SUMMARY:NG Spain (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191019
+DTEND;VALUE=DATE:20191021
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/nsspain-2019.md
+URL:https://2019.nsspain.com/
+DESCRIPTION:https://2019.nsspain.com/
+LOCATION:Logroño, La Rioja, Spain
+SUMMARY:NSSpain (Logroño, La Rioja, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190918
+DTEND;VALUE=DATE:20190921
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/opensouthcode-2020.md
+URL:https://www.opensouthcode.org/
+DESCRIPTION:https://www.opensouthcode.org/
+LOCATION:Malaga, Spain
+SUMMARY:Opensouthcode (Malaga, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200424
+DTEND;VALUE=DATE:20200426
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/php-barcelona-2019.md
+URL:https://php.barcelona/
+DESCRIPTION:https://php.barcelona/
+LOCATION:Barcelona, Spain
+SUMMARY:PHP.Barcelona (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191112
+DTEND;VALUE=DATE:20191114
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/pucelatechday-2020.md
+URL:https://pucelatechday.com/
+DESCRIPTION:https://pucelatechday.com/
+LOCATION:Valladolid, Spain
+SUMMARY:Pucela Tech Day (Valladolid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200516
+DTEND;VALUE=DATE:20200517
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/pulpocon-2019.md
+URL:https://pulpocon.es
+DESCRIPTION:https://pulpocon.es
+LOCATION:Pontevedra, Spain
+SUMMARY:PulpoCon (Pontevedra, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190907
+DTEND;VALUE=DATE:20190908
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/pycones-2019.md
+URL:https://2019.es.pycon.org
+DESCRIPTION:https://2019.es.pycon.org
+LOCATION:Alicante, Spain
+SUMMARY:PyConEs (Alicante, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191007
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/react-alicante-2019.md
+URL:https://reactalicante.es/
+DESCRIPTION:https://reactalicante.es/
+LOCATION:Alicante, Spain
+SUMMARY:React Alicante (Alicante, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190926
+DTEND;VALUE=DATE:20190929
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/salmorejo-tech-2019.md
+URL:https://salmorejotech.com
+DESCRIPTION:https://salmorejotech.com
+LOCATION:Córdoba, Spain
+SUMMARY:Salmorejo Tech (Córdoba, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190913
+DTEND;VALUE=DATE:20190914
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/scbcn-2019.md
+URL:https://softwarecrafters.barcelona/
+DESCRIPTION:https://softwarecrafters.barcelona/
+LOCATION:Barcelona, Catalunya, Spain
+SUMMARY:Software Crafters (Barcelona, Catalunya, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191005
+DTEND;VALUE=DATE:20191007
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/scpna-2019.md
+URL:https://pamplonaswcraft.com/
+DESCRIPTION:https://pamplonaswcraft.com/
+LOCATION:Pamplona, Navarra, Spain
+SUMMARY:Software Crafters Conference (Pamplona, Navarra, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190614
+DTEND;VALUE=DATE:20190616
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/sosz-2019.md
+URL:http://sosz19.cachirulovalley.com
+DESCRIPTION:http://sosz19.cachirulovalley.com
+LOCATION:Zaragoza, Spain
+SUMMARY:SOS (Zaragoza, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190323
+DTEND;VALUE=DATE:20190324
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/t3chfest-2019.md
+URL:https://t3chfest.uc3m.es/2019
+DESCRIPTION:https://t3chfest.uc3m.es/2019
+LOCATION:Leganés, Madrid, Spain
+SUMMARY:T3chFest (Leganés, Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190314
+DTEND;VALUE=DATE:20190316
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/t3chfest-2020.md
+URL:http://t3chfest.es/2020/
+DESCRIPTION:http://t3chfest.es/2020/
+LOCATION:Leganes, Madrid, Spain
+SUMMARY:T3chFest (Leganes, Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200312
+DTEND;VALUE=DATE:20200315
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/tarugo-conf-2019.md
+URL:https://www.tarugoconf.com
+DESCRIPTION:https://www.tarugoconf.com
+LOCATION:Madrid, Spain
+SUMMARY:TarugoConf (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191024
+DTEND;VALUE=DATE:20191027
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/tarugoconf-2020.md
+URL:https://www.tarugoconf.com/
+DESCRIPTION:https://www.tarugoconf.com/
+LOCATION:Madrid, Spain
+SUMMARY:#Tarugo5 (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20201022
+DTEND;VALUE=DATE:20201025
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/techne-forum-2019.md
+URL:https://techneforum.com/
+DESCRIPTION:https://techneforum.com/
+LOCATION:Tarragona, Spain
+SUMMARY:Techne Forum (Tarragona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191019
+DTEND;VALUE=DATE:20191020
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/tryit-2019.md
+URL:https://congresotryit.es/
+DESCRIPTION:https://congresotryit.es/
+LOCATION:Madrid, Spain
+SUMMARY:Try IT (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190318
+DTEND;VALUE=DATE:20190323
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/wecode-fest-2019.md
+URL:https://wecodefest.com/
+DESCRIPTION:https://wecodefest.com/
+LOCATION:Valladolid, Spain
+SUMMARY:WeCode (Valladolid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190222
+DTEND;VALUE=DATE:20190224
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/wordcamp-madrid-2019.md
+URL:https://2019.madrid.wordcamp.org
+DESCRIPTION:https://2019.madrid.wordcamp.org
+LOCATION:Madrid, Spain
+SUMMARY:WordCamp (Madrid, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190406
+DTEND;VALUE=DATE:20190408
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/wordcamp-sevilla-2019.md
+URL:https://2019-developers.sevilla.wordcamp.org/
+DESCRIPTION:https://2019-developers.sevilla.wordcamp.org/
+LOCATION:Sevilla, Spain
+SUMMARY:WordCamp (Sevilla, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191004
+DTEND;VALUE=DATE:20191007
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/wtm-asturias-2019.md
+URL:http://wtm.gdgasturias.com/
+DESCRIPTION:http://wtm.gdgasturias.com/
+LOCATION:Asturias, Spain
+SUMMARY:WTM (Asturias, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190406
+DTEND;VALUE=DATE:20190407
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/wtm-barcelona-2019.md
+URL:http://wtm.gdgbarcelona.com/
+DESCRIPTION:http://wtm.gdgbarcelona.com/
+LOCATION:Barcelona, Spain
+SUMMARY:WTM (Barcelona, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20190406
+DTEND;VALUE=DATE:20190407
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/wtm-zaragoza-2019.md
+URL:http://wtmz19.mullerestech.es
+DESCRIPTION:http://wtmz19.mullerestech.es
+LOCATION:Zaragoza, Spain
+SUMMARY:WTM (Zaragoza, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20191116
+DTEND;VALUE=DATE:20191117
+DTSTAMP:20191108T114640Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://github.com/npatarino/tech-conferences-spain/tree/gh-pages/_conferences/zurracapoteconf-2020.md
+URL:https://zurracapoteconf.appspot.com/
+DESCRIPTION:https://zurracapoteconf.appspot.com/
+LOCATION:Logroño, Spain
+SUMMARY:Zurracapoteconf (Logroño, Spain)
+CLASS:PUBLIC
+DTSTART;VALUE=DATE:20200220
+DTEND;VALUE=DATE:20200221
+DTSTAMP:20191108T114640Z
+END:VEVENT
+END:VCALENDAR
