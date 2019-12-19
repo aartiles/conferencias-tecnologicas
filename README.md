@@ -6,9 +6,7 @@ Puedes hacerle preguntas como:
 - `Alexa abre conferencias tecnológicas y dime qué conferencias hay en mayo`
 - `Alexa abre conferencias tecnológicas y dime qué eventos hay este mes`
 
-## ¿Còmo añadir publicar una nueva conferencia?
-La skill usa la agenda creada por @npatarino https://npatarino.github.io/tech-conferences-spain/. Si quieres que tu conferencia aparezca tanto en la agenda online como en la skill envía un pull request tal como se explica en https://github.com/npatarino/tech-conferences-spain/#adding-a-conference.
-
-## Licencia
+## ¿Cómo publicar una nueva conferencia?
+La skill usa la agenda creada por @npatarino https://npatarino.github.io/tech-conferences-spain. Si quieres que tu conferencia o evento aparezca tanto en la agenda online como en la skill, envía un pull request tal como se explica en https://github.com/npatarino/tech-conferences-spain/#adding-a-conference.
 
 
